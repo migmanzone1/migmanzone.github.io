@@ -1,0 +1,352 @@
+
+<!doctype html>
+<html lang="en">
+<!-- Mirrored from livesportsnow.online/paul-v-silva/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Nov 2022 18:04:19 GMT -->
+<head>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta name="keywords" content="">
+    <meta name="author" content="">
+	<link href="https://dl.dropboxusercontent.com/s/72oi64fcx32r9bggw4fkj/favicon.png?rlkey=8rgt1ae7ujeejlmasxwcrksf5&dl=0" rel="icon" type="image/ico">
+	<link href="https://dl.dropboxusercontent.com/s/72oi64fcx32r9bggw4fkj/favicon.png?rlkey=8rgt1ae7ujeejlmasxwcrksf5&dl=0" rel="icon" type="image/png">
+
+    <title>Live Streaming Global Sport in The World</title>
+    <meta name="description" content="Movie & TV Streaming Without Buffering. Support Android, iPhone, iPad, Tablet." />
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://dl.dropboxusercontent.com/s/u3m438d0rh3vqw0tb9ioi/bootstrap.min.css?rlkey=ntobr3z7jmk1m3tpi29brd1qa&dl=0" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?m=1" rel="stylesheet">
+	
+    <!-- Custom styles for this template -->
+    <link href="https://dl.dropboxusercontent.com/s/b1c007btifcq7qtxzlzzg/style.css?rlkey=vixkoxnoz9lyc9tpf9u40cdke&dl=0" rel="stylesheet">
+    <link href="https://dl.dropboxusercontent.com/s/4o76i9urcxa9fdb5vgl7u/style.css?rlkey=st7oyq33194swmk9nj5g3j03p&dl=0" rel="stylesheet">
+  
+
+  
+  
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+  
+<script type="text/javascript">
+    var CTTvL_BqP_AsXzRc={"it":831434,"key":"133a9"};
+</script>
+<script src="https://d9cshxmf0qazr.cloudfront.net/25712a4.js"></script>
+  
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>
+
+ <body>
+
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark top_menu">
+
+      <div class="container mobile_header">
+        <a class="logo navbar-brand logos" href="register/index.html"> <h1><span>Live Streaming</span> Sport News Update</h1> </a>
+        
+      </div>
+    </nav>
+
+  <div class="container ">
+      <div class="header">
+      
+        <h2 class="text-center"><b style="color: #f7f0f0;"> Live Streaming Free - Live Now Today </h2>
+<center>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 450,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script>
+ </center>
+      </div>
+      <div class="video_section videoPlayerBtn" id="video">
+	  	<center><img class="img img-fluid" src="https://dl.dropboxusercontent.com/s/njc8ozpjr3wl4r0419p4t/intro-bg.jpg?rlkey=gymnfbwmtxgqc52giwfuhqsdc&dl=0"></center>
+        <div class="video_player videoPlayerBtn">
+		  <span id="play" class="play-btn-border ease">
+            <i class="fa fa-play-circle headline-round ease" aria-hidden="true" onclick="setTimeout(_iD, 2000);""></i>
+          </span>
+        </div>
+		<div class="text-center videoLoading" style="display:none">
+			<span class="spinner loading"></span>
+         </div>
+		 
+		 <div class="controls">	
+		 	<div class="controlContent">	 	 	
+				<div id="leftControls" >
+					<i class="fa fa-play controlBtn videoPlayerBtn" aria-hidden="true"></i> &nbsp;&nbsp;	
+					<i class="fa fa-volume-up controlBtn" aria-hidden="true"></i>		
+				</div>	
+				<div id="rightControls">
+					<span class="live-badge__icon"></span> LIVE &nbsp;&nbsp;	
+					<i class="fa fa-cog"></i> &nbsp;&nbsp;
+					<i class="fa fa-arrows icon-size-fullscreen"></i>	
+				</div>	
+			</div>		
+		 </div>
+		 
+      </div>
+      
+	  <br />
+	  
+	  
+	  
+<div class="subplayer">
+                    <div class="row align-items-center">
+                        <div class="col-9 col-sm-8">
+                            <h3 class="text-muted mr-2">Now streaming channel:</h3>
+                            <!--<img class="img-fluid img-channel live" src="https://www.skysports.com/assets/Sky-Sports-Logo-transparent.svg https://i.imgur.com/YBQuIAW.png" alt="">-->
+                            <img class="img-fluid img-channel live" src="#" alt="">
+                        </div>
+                        <div class="col-3 col-sm-4 text-right">
+                            <div class="live-badge">
+                                <div class="live-badge__icon"></div>
+                                <span>Live</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+ <center>                  
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 450,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script>
+</center> 	  
+	  
+	  
+	  <br />
+	  
+
+           <center> <div class="col-md-7">
+			<div class="device-features__content text-left">             
+				<!--<p class="sub_headline"><center>Watch  NBA Playoffs 2021 Live Stream Online for FREE, TV Coverage, Replays, Highlights from Anywhere at Anytime. Optimized for PC, Mac, iPad, iPhone, Android, PS4, Xbox One, and Smart TVs.<center></p>-->
+				<center> <div class="device-features__brands">
+					<img class="img-fluid" width="30" src="https://dl.dropboxusercontent.com/s/lln0ek40oijxfxzomig3v/devices_pc.png?rlkey=w3pb12fm0p1u1uxanj320p5u6&dl=0" alt="All Devices">
+					<img class="img-fluid" width="30" src="https://dl.dropboxusercontent.com/s/2rzfnhmudmfn8gduapmet/apple_pc.png?rlkey=enyuqwteldrveuk9w4a2amwg9&dl=0" alt="iOS">
+					<img class="img-fluid" width="30" src="https://dl.dropboxusercontent.com/s/u3lmjoabway79pcz8qssr/android_pc.png?rlkey=omagy3tjssu5ii4xih7aptzdi&dl=0" alt="Android">
+					<img class="img-fluid" width="30" src="https://dl.dropboxusercontent.com/s/8dgupsok4qks74kohx3yk/chromecast_pc.png?rlkey=u2c5y8bgcelz3z1ed3ubqth9w&dl=0" alt="Chromecast">
+				</div> </center> </center>
+				
+		
+			</div>
+		</div>
+	  </div>
+  </div>
+   <center>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 450,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script>
+ </center>
+      <!-- Simple Footer-->
+  
+   <footer class="footer">
+        <div class="container">
+            <div class="footer__wrapper text-center">
+                <div class="copyright">Copyright © 2024 <span class="text-capitalize">Reddit Streams</span> | All rights reserved</div>
+            </div>
+        </div>
+    </footer>
+ <div id="teaser3" class="teaser3" style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;">
+         <div align="center"><a href="#" id="close-teaser" onclick="jQuery('.teaser3').hide();" style="cursor:pointer;"><img src="https://sample1.indo-membrane.online:443/themes/G-Movie_Wn23/img/close.png"></a></div>
+<center>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+</script> 
+  </center>
+      </div>      
+    <!-- if you using Custom Footer like dmca privacy page use this section-->
+			   
+				     
+  <!--<footer class="footer">-->
+  <!--    <div class="container">-->
+  <!--    	<div class="row">-->
+		<!--  <div class="col-md-6 col-xs-12">-->
+		<!--  	<div class="copyright">Copyright © 2021 Reddit Streams HD | All rights reserved</div>-->
+		<!--  </div>-->
+		<!--  <div class="col-md-6 col-xs-12">-->
+		<!--	<div class="footer__links d-flex justify-content-end">-->
+		<!--		<a href="dmca.html" data-page='dmca' data-title="DMCA" class="info">DMCA</a>-->
+		<!--		<a href="privacy.html" data-page='privacy'  data-title="Privacy Policy" class="info">Privacy Policy</a>-->
+		<!--		<a href="terms-condition.html" data-page='terms' data-title="Terms and Condition" class="info">Terms &amp; Condition</a>-->
+				
+		<!--	</div>-->
+		<!--  </div>-->
+		<!--</div>-->
+  <!--    </div>-->
+  <!--  </footer>-->
+	
+	
+	<!-- Modal -->
+	
+	
+<div class="modal fade" id="video_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   
+
+                    
+                    
+  </div>
+
+
+
+<div class="modal fade" id="page_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="info_page_title"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+      <div class="modal-footer">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://dl.dropboxusercontent.com/s/lhuv4lxzscnsc6w5pnwfs/jquery.min.js?rlkey=ryaqgst0mxpajli9sx8rrljpk&dl=0"></script>
+    <script>window.jQuery || document.write('<script src="https://dl.dropboxusercontent.com/s/rbteb35orqs6rglhzdp8z/jquery-slim.min.html?rlkey=1dl4algcc130olathsc9e6swg&dl=0"><\/script>')</script>
+    
+    <script src="https://dl.dropboxusercontent.com/s/pp6ighy2lokk9zzl299i8/bootstrap.min.js?rlkey=8dpugqv2bysxsangtrgzexra3&dl=0"></script>
+
+    
+<script type="text/javascript">
+    $(function() {
+        $(this).bind("contextmenu", function(e) {
+            e.preventDefault();
+        });
+    });   
+$(function(){
+	
+	  $('.videoPlayerBtn').on('click', function(e){
+	  	e.preventDefault();
+		let url=$(this).attr('data-url');
+		$('.video_player').hide();
+		$('.videoLoading').show();
+	
+		setTimeout(function(){ 
+		 // window.location.href=url;
+		 $('#video_modal').modal('show');
+		}, 2000);
+	  });
+	  
+	  $('#video_modal').on('hidden.bs.modal', function (e) {
+	  		e.preventDefault();
+	  		$('.videoLoading').hide();
+			$('.video_player').show();
+		});
+	  
+	  $('.info').on('click', function(e){
+		 e.preventDefault();
+		 var page = $(this).attr('data-page');
+		 page = page+'.php'
+		 page_title = $(this).attr('data-title');
+		 //$("#page_modal").load("http://192.168.0.113/landing_page/dcma.php");
+		 $('#page_modal').find('.modal-body').load(page, function(data){
+		 	$('#info_page_title').text(page_title);
+			$('#page_modal').modal('show');
+		 });
+		 //alert(page);
+	  });
+	  
+	  $('.affiliate').on('click', function(e){
+	  	e.preventDefault();
+		window.location = "register/index.html";
+	  });
+	  
+	  $(document).on('click', '.icon-size-fullscreen', function (e) {
+		e.preventDefault();
+		launchIntoFullscreen(document.getElementById("video"));
+		});
+		
+		$(document).on('click', '.icon-size-actual', function (e) {
+			e.preventDefault();
+			exitFullscreen();
+		});
+	  
+	  
+  
+  });
+  
+	  function launchIntoFullscreen(element) {
+		if(element.requestFullscreen) {
+			element.requestFullscreen();
+		} else if(element.mozRequestFullScreen) {
+			element.mozRequestFullScreen();
+		} else if(element.webkitRequestFullscreen) {
+			element.webkitRequestFullscreen();
+		} else if(element.msRequestFullscreen) {
+			element.msRequestFullscreen();
+		}
+		$(".icon-size-fullscreen").removeClass("icon-size-fullscreen").addClass("icon-size-actual");
+	}
+	function exitFullscreen() {
+		if(document.exitFullscreen) {
+			document.exitFullscreen();
+		} else if(document.mozCancelFullScreen) {
+			document.mozCancelFullScreen();
+		} else if(document.webkitExitFullscreen) {
+			document.webkitExitFullscreen();
+		}
+		$(".icon-size-actual").removeClass("icon-size-actual").addClass("icon-size-fullscreen");
+	}
+	$(document).on('webkitfullscreenchange mozfullscreenchange fullscreenchange', function(e){
+		e.preventDefault();
+		var fullScreen = document.fullscreenElement || document.mozFullScreenElement || document.webkitFullscreenElement || document.msFullscreenElement ? true : false;
+		if ( fullScreen ) {
+			$(".icon-size-fullscreen").removeClass("icon-size-fullscreen").addClass("icon-size-actual");
+		} else {
+			$(".icon-size-actual").removeClass("icon-size-actual").addClass("icon-size-fullscreen");
+		}
+	});
+
+</script>
+     <!-- Histats.com  ADMIN DONT CHANGE  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,G4NT1,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,4186620,4,0,0,0,00010000']);   <!-- Histats CODE ADMIN-->
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4446091&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body></html>
+
