@@ -132,8 +132,6 @@
 </script>
 </center>
 
-<script type="text/javascript" src="//capturescaldsomewhat.com/60f49cba65e75dd62e5692b72de37382/invoke.js"></script>
-</center>
 <script type="text/javascript">
 function addEvent(obj, eventName, func){
 if (obj.attachEvent) {
