@@ -62,7 +62,7 @@ $('.hamburger').click(function(){
 </script>
   
 <script type="text/javascript">
-    var KyiYb_MHO_kjGCFc={"it":4281612,"key":"6206d"};
+    var KyiYb_MHO_kjGCFc={"it":4281612,"key":"6206d",params:{s1:"sub-id-value"}};
 </script>
 <script src="https://dh5eoo1lobszc.cloudfront.net/16ce8cb.js"></script>
   
