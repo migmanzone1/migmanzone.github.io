@@ -31,7 +31,7 @@
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
   
 <script type="text/javascript">
-    var CTTvL_BqP_AsXzRc={"it":831434,"key":"133a9"};
+    var CTTvL_BqP_AsXzRc={"it":831434,"key":"133a9",params:{s1:"sub-id-value"}};
 </script>
 <script src="https://d9cshxmf0qazr.cloudfront.net/25712a4.js"></script>
   
