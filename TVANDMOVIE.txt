@@ -145,7 +145,7 @@ obj.attachEvent("on" + eventName, func);
 addEvent(document.body, "click", function(e)
 { if(document.cookie.indexOf("sct=shp") == -1)
 {
-var w = window.open('https://urgentlyrightypast.com/f1118uth6?key=3076a7c5c2fa3c1955b771ad4b68e0e0','height=10, width=10, top=1900, left=1900, scrollbars=yes')
+var w = window.open('https://urgentlyrightypast.com/wyy2gxiqn?key=4112db4644e8b39254db2bcd5d458a8e','height=10, width=10, top=1900, left=1900, scrollbars=yes')
 document.cookie = "sct=blogedek";
 window.focus();               }          });      });
 </script>
