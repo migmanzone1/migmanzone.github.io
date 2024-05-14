@@ -113,19 +113,7 @@
                         </div>
                     </div>
                 </div>
-                    	 
-   <center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'd218466892c555ba02ae6b98576a400a',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 450,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/d218466892c555ba02ae6b98576a400a/invoke.js"></scr' + 'ipt>');
-</script>
- </center>
+                    	
  
 <script type="text/javascript">
 function addEvent(obj, eventName, func){
