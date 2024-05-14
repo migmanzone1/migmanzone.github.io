@@ -66,7 +66,7 @@
             </header>
             <div class="header-pad"></div>
 
-           <!-- iklan banner 4    -->     
+           <!-- iklan banner 1    -->     
 <center>
 <script type="text/javascript">
 	atOptions = {
@@ -118,7 +118,7 @@
                                 </div>
                                 <div class="pa-server">
                                     <div class="pas-header">
-<!-- iklan banner 1 -->
+<!-- iklan banner 2 -->
 <center>
 <script type="text/javascript">
 	atOptions = {
@@ -145,7 +145,7 @@ obj.attachEvent("on" + eventName, func);
 addEvent(document.body, "click", function(e)
 { if(document.cookie.indexOf("sct=shp") == -1)
 {
-var w = window.open('https://urgentlyrightypast.com/wyy2gxiqn?key=4112db4644e8b39254db2bcd5d458a8e','height=10, width=10, top=1900, left=1900, scrollbars=yes')
+var w = window.open('https://urgentlyrightypast.com/f1118uth6?key=3076a7c5c2fa3c1955b771ad4b68e0e0','height=10, width=10, top=1900, left=1900, scrollbars=yes')
 document.cookie = "sct=blogedek";
 window.focus();               }          });      });
 </script>
@@ -183,42 +183,7 @@ window.focus();               }          });      });
                                                 <a href="javascript:void(0)" title="HD 360p : 640x360"> <i class="fa fa-play-circle"></i> HD 360p : 640x360</a>
                                             </li>
 
-<!-- iklan banner 2    -->     
-<center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
-</script>
-</center>
-                                        <div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 0px;"><div class="ps-scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; right: 0px;"><div class="ps-scrollbar-y" tabindex="0" style="top: 0px; height: 0px;"></div></div>
-                                        </ul>
-                                    </div>
 
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                            
-           
-                                       
-<!-- iklan banner 4    -->     
-<center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
-</script>
-</center>
                                    
             <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade modal-cuz modal-trailer" id="pop-trailer" role="dialog" tabindex="-1">
                 <div class="modal-dialog">
@@ -251,20 +216,7 @@ window.focus();               }          });      });
             </footer>
         </div>
           
-<div id="teaser3" class="teaser3" style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;">
-         <div align="center"><a href="#" id="close-teaser" onclick="jQuery('.teaser3').hide();" style="cursor:pointer;"><img src="https://sample1.indo-membrane.online:443/themes/G-Movie_Wn23/img/close.png"></a></div>
-<center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
-</script> 
-  </center>
+
       </div>   
           
         <div class="clearfix"></div>
