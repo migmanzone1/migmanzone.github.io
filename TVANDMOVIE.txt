@@ -118,19 +118,6 @@
                                 </div>
                                 <div class="pa-server">
                                     <div class="pas-header">
-<!-- iklan banner 2 -->
-<center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
-</script>
-</center>
 
 <script type="text/javascript">
 function addEvent(obj, eventName, func){
