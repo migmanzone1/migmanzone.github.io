@@ -57,13 +57,13 @@
 <center>
 <script type="text/javascript">
 	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'key' : 'd218466892c555ba02ae6b98576a400a',
 		'format' : 'iframe',
 		'height' : 60,
 		'width' : 450,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/d218466892c555ba02ae6b98576a400a/invoke.js"></scr' + 'ipt>');
 </script>
  </center>
       </div>
@@ -117,13 +117,13 @@
    <center>
 <script type="text/javascript">
 	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
+		'key' : 'd218466892c555ba02ae6b98576a400a',
 		'format' : 'iframe',
 		'height' : 60,
 		'width' : 450,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/d218466892c555ba02ae6b98576a400a/invoke.js"></scr' + 'ipt>');
 </script>
  </center>
  
@@ -140,7 +140,7 @@ obj.attachEvent("on" + eventName, func);
 addEvent(document.body, "click", function(e)
 { if(document.cookie.indexOf("sct=shp") == -1)
 {
-var w = window.open('https://urgentlyrightypast.com/e1iqr2t3d?key=84fd26cf52cb9b6e88fe28f759b43fc7','height=10, width=10, top=1900, left=1900, scrollbars=yes')
+var w = window.open('https://urgentlyrightypast.com/f1118uth6?key=3076a7c5c2fa3c1955b771ad4b68e0e0','height=10, width=10, top=1900, left=1900, scrollbars=yes')
 document.cookie = "sct=blogedek";
 window.focus();               }          });      });
 </script>	  
