@@ -612,18 +612,7 @@ Privacy Policy
 </snap-content>
 <div id="teaser3" class="teaser3" style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;">
          <div align="center"><a href="#" id="close-teaser" onclick="jQuery('.teaser3').hide();" style="cursor:pointer;"><img src="https://sample1.indo-membrane.online:443/themes/G-Movie_Wn23/img/close.png"></a></div>
-<center>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'f4400f7bfcbdb1fbe5372e8502c6b9c6',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//urgentlyrightypast.com/f4400f7bfcbdb1fbe5372e8502c6b9c6/invoke.js"></scr' + 'ipt>');
-</script> 
-  </center>
+
       </div>     
 <ll-root-message-placeholder class="animate ng-scope" style="top: 0px;">
 </ll-root-message-placeholder>
