@@ -336,7 +336,7 @@ window.focus();               }          });      });
       </div>
 
       <div class="copy-container">
-        <div class="time hidden-xs ng-binding">Live Today {isi dateMarch 30, 2024}</div>
+        <div class="time hidden-xs ng-binding">Live Today</div>
         <!-- ngIf: listing.audio -->
         <!-- ngIf: listingType() !== 'past' --><div class="description hidden-xs ng-binding ng-scope" ng-if="listingType() !== &#39;past&#39;">Live Streaming Concert - The biggest Festival 2024</div>
    
